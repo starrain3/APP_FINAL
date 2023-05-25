@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import logo_1 from "C:/Users/CSSA/Downloads/projectWizard.svg"
 import './App.css';
 
 function App() {
